@@ -2,12 +2,21 @@
 ‎# 🌐 3Dreaming AI CLI Free
 ‎
 ‎> Versi: Advanced Complex Model | Gratis & Bebas | MIT License
+
+
+
 ‎
 ‎Alat pembuat model 3D dari teks berbasis CLI. Tulis deskripsi → dapat file 3D.
 ‎
 ‎---
+
+
+
+
 ‎
 ‎## 📁 Struktur
+
+
 ‎ 
 ‎ 
 ‎3Dreaming AI CLI free/
